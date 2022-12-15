@@ -18,3 +18,16 @@ for harf in kelime:
 
     print(harf)
 """
+
+"""
+for x in range(6):
+  print(x)
+"""
+
+"""
+sayi = "123456789"
+
+for i in sayi:
+    if int(i) > 3:
+        print(i)
+"""

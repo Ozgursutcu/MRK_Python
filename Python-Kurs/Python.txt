@@ -1,0 +1,37 @@
+
+    PYTHON 101
+    
+    Python 90’lı yılların başında Amsterdam’da Guido Van Rossum tarafından geliştirilmeye başlanan bir programlama dilidir.
+Zannedilenin aksine ismini piton yılanından değil,Rossum’un çok sevdiği Monthy Python isimli komedi grubunun sergilediği 
+gösteriden alır.
+
+
+Kullanım alanları:
+
+Veri Bilimi
+Makine öğrenme
+Web Geliştirme
+Görüntü İşleme
+Oyun Geliştirme
+Robotik
+Otonom araçlar
+Arayüz Geliştirme
+ve diğer alanlar.
+
+
+
+
+
+
+Python download : https://www.python.org/downloads/
+
+VS Code         : https://code.visualstudio.com/download
+
+PyCharm         : https://www.jetbrains.com/pycharm/download/#section=windows
+
+Kaynaklar:
+w3schools       ----->  https://www.w3schools.com/python/default.asp
+
+tutorialspoint  ----->  https://www.tutorialspoint.com/python/index.htm
+
+yazbel          ----->  https://python-istihza.yazbel.com/
